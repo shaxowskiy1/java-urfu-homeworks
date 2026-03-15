@@ -1,6 +1,5 @@
 package ru.shaxowskiy.javaurfuhomework;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 /**
